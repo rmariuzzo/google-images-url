@@ -21,7 +21,7 @@ GoogleImagesUrl.create('cute cats', { size: 'large' })
 ### API
 
 ```js
-GoogleImagesUrl(query, options)
+GoogleImagesUrl.create(query, options)
 ```
 
  - `query` - The term used for the search.
