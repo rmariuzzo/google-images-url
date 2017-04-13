@@ -54,3 +54,7 @@ npm test
 # or
 yarn test
 ```
+
+#### Appreciations
+
+Thanks to Theodor Stenevang Klemming for [his article](https://stenevang.wordpress.com/2013/02/22/google-advanced-power-search-url-request-parameters/).
