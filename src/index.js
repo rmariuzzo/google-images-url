@@ -9,7 +9,6 @@ const defaults = {
   size: null,
   color: null,
   type: null,
-  group: null,
   showSizes: null,
   time: 'anytime',
   sortBy: null
